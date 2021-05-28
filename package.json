@@ -1,5 +1,5 @@
 {
-  "homepage": "http://venkat007-k.github.io/fusionautoglym",
+  "homepage": "http://shravan6455.github.io/fusion_autoglym",
   "name": "fusion_autoglym",
   "version": "0.1.0",
   "private": true,
@@ -20,7 +20,7 @@
     "react-remove-scroll-bar": "^2.2.0",
     "react-responsive-carousel": "^3.2.18",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "^1.1.5",
+    "react-scripts": "^4.0.3",
     "react-simple-image-slider": "^2.1.0",
     "react-slick": "^0.28.1",
     "react-slideshow-image": "^3.4.6",
@@ -29,7 +29,7 @@
     "web-kit": "^0.2.1",
     "web-vitals": "^1.1.1",
     "webkit": "*",
-    "webpack": "^3.8.1"
+    "webpack": "^5.38.1"
   },
   "scripts": {
     "predeploy": "npm run build",
@@ -58,6 +58,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^3.1.0"
+    "gh-pages": "^3.2.0"
   }
 }
